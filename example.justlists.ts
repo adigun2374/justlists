@@ -51,7 +51,7 @@
         },
         {
             "symbol":"WTRX",
-            "address":"TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
+            "address":"TMa13TYJqTrhrNKfrJLDa2yLTXGrTyEdhN,
             "chainId":1,
             "decimals":6,
             "name":"Wrapped TRX",
